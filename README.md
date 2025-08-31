@@ -6,6 +6,10 @@ Projekt obsahuje pripravené NestJS moduly a mock dáta v JSON súboroch (tokens
 
 Úlohou je doprogramovať logiku tak, aby fungovali nasledujúce endpointy:
 
+## General
+
+- Pridaj swagger UI
+
 ## 🪙 Tokens API
 
 **Endpoint:** `GET /tokens`
