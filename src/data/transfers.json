@@ -1,0 +1,6 @@
+[
+  { "ts": 1722462000, "address": "alice", "symbol": "ETH", "amount": 1.25 },
+  { "ts": 1722465600, "address": "alice", "symbol": "USDC", "amount": 500 },
+  { "ts": 1722470000, "address": "bob", "symbol": "BTC", "amount": 0.05 },
+  { "ts": 1722473600, "address": "bob", "symbol": "USDC", "amount": -200 }
+]
