@@ -26,6 +26,11 @@ Projekt obsahuje pripravené NestJS moduly a mock dáta v JSON súboroch (tokens
 - Výsledok zoradí podľa hodnoty od najväčšej po najmenšiu
 - Ak je zadaný parameter `minUsd`, vynechá položky s nižšou hodnotou
 
+## Primitive x-api-key guard
+
+- Pridaj na endpoint /portfolio guard, ktory bude checkovat x-api-key v headers
+- API_KEY bude uložený v .env a načítany cez ConfigService
+
 ## 💱 Quote API
 
 **Endpoint:** `POST /quotes`
