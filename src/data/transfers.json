@@ -1,6 +1,10 @@
 [
-  { "ts": 1722462000, "address": "alice", "symbol": "ETH", "amount": 1.25 },
+  { "ts": 1722462000, "address": "alice", "symbol": "ETH",  "amount": 1.25 },
   { "ts": 1722465600, "address": "alice", "symbol": "USDC", "amount": 500 },
-  { "ts": 1722470000, "address": "bob", "symbol": "BTC", "amount": 0.05 },
-  { "ts": 1722473600, "address": "bob", "symbol": "USDC", "amount": -200 }
+  { "ts": 1722469200, "address": "alice", "symbol": "ETH",  "amount": 0.75 },
+  { "ts": 1722471000, "address": "alice", "symbol": "USDC", "amount": -150 },
+  { "ts": 1722470000, "address": "bob",   "symbol": "BTC",  "amount": 0.05 },
+  { "ts": 1722473600, "address": "bob",   "symbol": "USDC", "amount": 300 },
+  { "ts": 1722475400, "address": "bob",   "symbol": "BTC",  "amount": 0.02 },
+  { "ts": 1722477200, "address": "bob",   "symbol": "USDC", "amount": -50 }
 ]
